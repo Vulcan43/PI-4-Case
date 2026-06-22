@@ -1,8 +1,13 @@
 <img width="404" height="233" alt="image" src="https://github.com/user-attachments/assets/ddcf0d2d-6a43-40db-a887-0f54134ecf8b" />
 
-# What this is
-This is a pi 4 case withb room for a cooler and can be cnc milled or 3d printed. This was taken out of a rejected stasis project so the other one is easyier to create.
+# Note:
+I was unable to test if the Pi 4 fits in the case when taking my measurements with calipers. I was using my schools Pi 4 which they have a few of. Since then school has ended and I no longer have access to a Pi 4. Therefore I have no proof that this case actually fits a Pi 4 but I can say I took very precise measurements when I had it and it should fit perfectly.
 
+# What this is
+This is a Pi 4 case with space for a cooler and you can make it by CNC milling or 3D printing. I took this design from a stasis project that didn’t work so the other version is easier to build. There’s enough space for most Pi 4 coolers and it works well whether you 3D print it or use CNC milling if you want a more professional or sturdy look.
+
+# Why I made it 
+I made this becuase when I started my first project at Stasis I tryed to put way to much in it and it ended up being rejected so I space everything out into multiple tiny projects and it works better.
 
 # PI-4-Case
 This is a 3d printable or CNCable case for a pi 4 b with room for a pi 4 cooler
