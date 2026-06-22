@@ -9,5 +9,17 @@ This is a Pi 4 case with space for a cooler and you can make it by CNC milling o
 # Why I made it 
 I made this becuase when I started my first project at Stasis I tryed to put way to much in it and it ended up being rejected so I space everything out into multiple tiny projects and it works better.
 
+# Cost 
+
+| Name | Purpose | Quantity | Total Cost (USD) | Link | Distributor |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| 3D printed Case | To hold the pi 4 | 1 | 8.00 | [PCBway Link](https://member.pcbway.com/Order/CartList?t=2) | PCBway |
+
+If you work with Hackclub you can get this printed for cheaper at @PrintingLegion in slack
+
+# What it looks like
+You can look at the pictures folder for more pictures please do not mind my bad photography skills.
+
+
 # PI-4-Case
 This is a 3d printable or CNCable case for a pi 4 b with room for a pi 4 cooler
